@@ -4,7 +4,7 @@ Industrial AI Researcher | Digital Twins | Energy &amp; E-Mobility
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Kingsley Ojeogwu | Industrial AI Researcher</title>
+  Kingsley Ojeogwu | Industrial AI Researcher
 </head>
 <body>
   <h2>Kingsley Ojeogwu</h2>
