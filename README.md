@@ -12,5 +12,8 @@ Industrial AI Researcher | Digital Twins | Energy &amp; E-Mobility
   <p>
     <a href="Kingsley_Ojeogwu_AI_Researcher_CV.pdf">Download CV (PDF)</a>
   </p>
+  <p>
+    Selected work includes autonomous digital twin research for power and e-mobility systems using signal processing (FFT), reinforcement learning, and closed-loop control.
+  </p>
 </body>
 </html>
