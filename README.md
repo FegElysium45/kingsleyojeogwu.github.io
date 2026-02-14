@@ -3,7 +3,7 @@ Applied AI Systems Architect | Strategy | Automation Engineering | Digital Twins
 # Kingsley Azuka Ojeogwu
 ### AI Systems Architect | Strategy | Automation Engineering
 
-[View My Portfolio Site](https://kingsleyojeogwu.github.io)
+
 
 ## Documents
 * [Download CV (PDF)](Kingsley_Azuka_Ojeogwu_Herbal_Goodness_CV.pdf)
