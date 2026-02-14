@@ -15,4 +15,7 @@ Applied AI Systems Architect | Strategy | Automation & EPR Intelligence | Digita
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/download-icon.svg" alt="Download Icon"  width="24" 
      height="24" style="pointer-events: none; cursor: default; vertical-align: middle;">
 
-   
+<img src="https://uxwing.com" 
+     style="pointer-events: none;" 
+     width="24">
+
