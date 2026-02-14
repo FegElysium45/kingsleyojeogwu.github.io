@@ -15,6 +15,7 @@ AI Systems Architect with 7+ years designing and deploying automation, data, and
 
 ## Click 
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/download-icon.svg" alt="Download Icon">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/download-icon.svg" alt="Download Icon"  width="24" 
+     height="24">
 
    
