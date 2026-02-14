@@ -1,7 +1,7 @@
  Kingsley Azuka Ojeogwu
 ### Applied AI Systems Architect | Strategy | Automation Engineering
 
-Welcome to my professional profile. You can view the live version of this site at [kingsleyojeogwu.github.io](https://kingsleyojeogwu.github.io).
+Welcome to my professional profile. You can view the live version of this site at 
 
 ---
 
@@ -12,7 +12,7 @@ Click the links below to save a copy to your computer:
 
 ## Documents
 * <a href="Kingsley_Azuka_Ojeogwu_CV.pdf"><strong>Download CV (PDF)</strong></a>
-
+* <a href="Herbal_Goodness_Cover_Letter.pdf"><strong>Download Cover Letter (PDF)</strong></a>
 
 
 
