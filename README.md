@@ -1,5 +1,5 @@
 # kingsleyojeogwu.github.io
-Applied AI Systems Architect | Strategy | Automation Engineering | Digital Twins 
+Applied AI Systems Architect | Strategy | Automation & EPR Intelligence | Digital Twins 
 ## Kingsley Azuka Ojeogwu
 
 
