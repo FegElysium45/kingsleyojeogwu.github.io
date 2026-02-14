@@ -6,7 +6,7 @@ Applied AI Systems Architect | Strategy | Automation Engineering | Digital Twins
 
 
 ## Documents
-* <a href="Kingsley_Azuka_Ojeogwu_Herbal_Goodness_CV.pdf"><strong>Download CV (PDF)</strong></a>
+* <a href="Kingsley_Azuka_Ojeogwu_CV.pdf"><strong>Download CV (PDF)</strong></a>
 
 
 ## Profile
