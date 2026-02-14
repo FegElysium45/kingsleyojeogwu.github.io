@@ -12,7 +12,7 @@ Applied AI Systems Architect | Strategy | Automation Engineering | Digital Twins
 ## Profile
 AI Systems Architect with 7+ years designing and deploying automation, data, and AI-driven operational systems...
 
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
