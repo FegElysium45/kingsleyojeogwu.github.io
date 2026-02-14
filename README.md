@@ -1,7 +1,7 @@
  Kingsley Azuka Ojeogwu
 ### Applied AI Systems Architect | Strategy | Automation Engineering
 
-Welcome to my professional profile. You can view the live version of this site at 
+Welcome to my professional profile. 
 
 ---
 
