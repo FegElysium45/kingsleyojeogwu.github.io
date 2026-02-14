@@ -6,8 +6,8 @@ Applied AI Systems Architect | Strategy | Automation Engineering | Digital Twins
 
 
 ## Documents
-* [Download CV (PDF)](Kingsley_Azuka_Ojeogwu_Herbal_Goodness_CV.pdf)
-* [Download Cover Letter (PDF)](Herbal_Goodness_Cover_letter.pdf)
+* <a href="Kingsley_Azuka_Ojeogwu_Herbal_Goodness_CV.pdf"><strong>Download CV (PDF)</strong></a>
+* <a href="Herbal_Goodness_Cover_letter.pdf"><strong>Download Cover Letter (PDF)</strong></a>
 
 ## Profile
 AI Systems Architect with 7+ years designing and deploying automation, data, and AI-driven operational systems...
