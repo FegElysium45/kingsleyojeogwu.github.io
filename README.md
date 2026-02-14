@@ -4,7 +4,7 @@ Applied AI Systems Architect | Strategy | Automation & EPR Intelligence | Digita
 
 
 
-<img src="https://uxwing.com" width="24">
+
 ## Documents
 * <a href="Kingsley_Azuka_Ojeogwu_CV.pdf"><strong>Download CV (PDF)</strong></a>
 
@@ -12,7 +12,7 @@ Applied AI Systems Architect | Strategy | Automation & EPR Intelligence | Digita
 
 ## After Downloading , click this for offline view
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/download-icon.svg" alt="Download Icon"  width="24" 
+## <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/download-icon.svg" alt="Download Icon"  width="24" 
      height="24" style="pointer-events: none; cursor: default; vertical-align: middle;">
 
 
